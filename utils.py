@@ -6,10 +6,11 @@ DATA_DIR = os.path.join(os.path.dirname(__file__), "data") + "/"
 
 YEAR_COLORS = {
     2025: "#E63946",
-    2018: "#457B9D",
     2017: "#6BA3BE",
     2016: "#A8DADC",
 }
+
+DISPLAY_YEARS = [2016, 2017, 2025]
 
 CURRENT_YEAR = 2025
 

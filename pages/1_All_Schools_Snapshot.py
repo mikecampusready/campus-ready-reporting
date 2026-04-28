@@ -5,7 +5,7 @@ sys.path.insert(0, os.path.dirname(os.path.dirname(__file__)))
 import streamlit as st
 import pandas as pd
 import plotly.graph_objects as go
-from utils import load_data, YEAR_COLORS, CURRENT_YEAR, check_password
+from utils import load_data, YEAR_COLORS, CURRENT_YEAR, DISPLAY_YEARS, check_password
 
 
 def compute_snapshot(orders, summary, day_n, metric, normalize, fold_predate=False):
@@ -41,6 +41,7 @@ def main():
     )
 
     orders, summary = load_data()
+    orders = orders[orders["year"].isin(DISPLAY_YEARS)]
 
     # Restrict to schools that have 2025 data
     schools_2025 = set(orders[orders["year"] == CURRENT_YEAR]["school_name"].unique())

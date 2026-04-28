@@ -6,7 +6,7 @@ import streamlit as st
 import pandas as pd
 import plotly.graph_objects as go
 from datetime import date
-from utils import load_data, YEAR_COLORS, CURRENT_YEAR, check_password
+from utils import load_data, YEAR_COLORS, CURRENT_YEAR, DISPLAY_YEARS, check_password
 
 
 def get_school_day_map(orders, as_of):
@@ -56,6 +56,7 @@ def main():
     )
 
     orders, summary = load_data()
+    orders = orders[orders["year"].isin(DISPLAY_YEARS)]
 
     with st.sidebar:
         st.header("Filters")
