@@ -2,6 +2,7 @@ import os
 import pandas as pd
 import streamlit as st
 
+
 DATA_DIR = os.path.join(os.path.dirname(__file__), "data") + "/"
 
 YEAR_COLORS = {
