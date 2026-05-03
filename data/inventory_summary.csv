@@ -1,0 +1,303 @@
+item_id,sku,item_name,is_combo_product,quantity_available,quantity_available_for_sale,quantity_ordered,reorder_level,Status,unit,rate,purchase_rate
+5887661000004160153,PKG_BAS_BKGR,Basic Comfort Pack - Black Gray,True,0.0,0.0,0,,active,Pcs,159.0,54.84
+5887661000004160215,PKG_BAS_PDBK,Basic Comfort Pack - Black Plaid,True,0.0,0.0,0,,active,Pcs,159.0,55.52
+5887661000004160093,PKG_BAS_PDLP,Basic Comfort Pack - Blush Plaid,True,0.0,0.0,0,,active,Pcs,159.0,55.67
+5887661000004160308,PKG_BAS_CTGR,Basic Comfort Pack - Carter Stripe Gray,True,0.0,0.0,0,,active,Pcs,159.0,54.84
+5887661000004160370,PKG_BAS_EMSD,Basic Comfort Pack - Emerald Sand,True,0.0,0.0,0,,active,Pcs,159.0,55.62
+5887661000004160035,PKG_BAS_ELWH,Basic Comfort Pack - Eyelash White,True,0.0,0.0,0,,active,Pcs,169.0,58.89
+5887661000004160004,PKG_BAS_PNGR,Basic Comfort Pack - Gray Pintuck,True,0.0,0.0,0,,active,Pcs,169.0,59.79
+5887661000004160124,PKG_BAS_FLGR,Basic Comfort Pack - Green Floral,True,0.0,0.0,0,,active,Pcs,159.0,58.89
+5887661000004159764,PKG_BAS_HSGR,Basic Comfort Pack - Harbor Slate,True,0.0,0.0,0,,active,Pcs,159.0,55.52
+5887661000004159080,PKG_BAS_LVLP,Basic Comfort Pack - Lavender Blush,True,0.0,0.0,0,,active,Pcs,159.0,55.62
+5887661000004160184,PKG_BAS_NVLB,Basic Comfort Pack - Navy Light Blue,True,0.0,0.0,0,,active,Pcs,159.0,55.62
+5887661000004160246,PKG_BAS_PDNV,Basic Comfort Pack - Navy Plaid,True,0.0,0.0,0,,active,Pcs,159.0,55.52
+5887661000004160339,PKG_BAS_STBK,Basic Comfort Pack - Palmer Stripe,True,0.0,0.0,0,,active,Pcs,159.0,55.52
+5887661000004160277,PKG_BAS_PPNV,Basic Comfort Pack - Parker Plaid Navy,True,0.0,0.0,0,,active,Pcs,159.0,54.94
+5887661000004159793,PKG_BAS_PNPK,Basic Comfort Pack - Pink Pintuck,True,0.0,0.0,0,,active,Pcs,169.0,59.79
+5887661000004160064,PKG_BAS_PLWH,Basic Comfort Pack - Pleated White,True,0.0,0.0,0,,active,Pcs,169.0,58.89
+5887661000004159911,PKG_BAS_PLGR,Basic Comfort Pack - Plush Slate,True,0.0,0.0,0,,active,Pcs,169.0,58.79
+5887661000004159942,PKG_BAS_PMGR,Basic Comfort Pack - Pom Slate,True,0.0,0.0,0,,active,Pcs,169.0,58.79
+5887661000004159853,PKG_BAS_PMWH,Basic Comfort Pack - Pom White,True,0.0,0.0,0,,active,Pcs,169.0,58.89
+5887661000004159882,PKG_BAS_TFWH,Basic Comfort Pack - Tufted Arch White,True,0.0,0.0,0,,active,Pcs,169.0,58.89
+5887661000004159824,PKG_BAS_PNWH,Basic Comfort Pack - White Pintuck,True,0.0,0.0,0,,active,Pcs,169.0,59.89
+5887661000004159973,PKG_BAS_WFBL,Basic Comfort Pack - Willow Floral Blue Mist,True,0.0,0.0,0,,active,Pcs,159.0,54.94
+5887661000000220003,111222333,Basic Comfort Pack 1,False,0.0,0.0,0,,inactive,box,149.99,149.99
+5887661000003847186,BDCADDY_GRY-O,Bedside Caddy,False,4166.0,4166.0,0,,active,pcs,5.99,1.78
+5887661000003526280,SHSET_TXL_MB_BLK-O,Black 3 Piece Twin XL Sheet Set,False,0.0,0.0,0,,inactive,,15.0,0.0
+5887661000003846154,6PCTWLST_BLK-O,"Black 6 Piece Towel Set (2 Bath, 2 Hand, 2 Wash)",False,979.0,979.0,0,,active,pcs,39.99,16.74
+5887661000003846412,BTHSHT_BLK-O,Black Bath Sheet,False,1283.0,1283.0,0,,active,pcs,19.99,5.0
+5887661000003845896,PLSHTHRW_BLK-O,Black Micro Plush Throw,False,762.0,762.0,0,,active,pcs,24.99,2.98
+5887661000003526040,CMFT_TXL_ST_BLKPLD-O,Black Plaid Twin XL Reversible Comforter,False,992.0,992.0,0,,active,pcs,29.0,12.83
+5887661000003845294,CMFT_TXL_ST_BLKPLDSHT-O,Black Plaid Twin XL Reversible Comforter and Black and Gray Sheet Sets,False,799.0,799.0,0,,active,pcs,54.99,27.0
+5887661000003845337,CMFT_FQN_ST_FLWRBLU-D,Blue (Kyra) Floral Full/Queen Comforter,False,12.0,12.0,0,,active,pcs,54.99,20.0
+5887661000003165610,SHSET_TXL_MB_LTBLU,Blue Mist 3 Piece Twin XL Sheet Set,False,0.0,0.0,0,,active,pcs,24.99,7.05
+5887661000003526184,SHSET_TXL_MB_BLSH,Blush 3 Piece Twin XL Sheet Set,False,1666.0,1666.0,0,,active,pcs,15.0,7.1
+5887661000003523944,CMFT_TXL_ST_BLSHPLD,Blush Plaid Twin XL Reversible Comforter,False,1090.0,1090.0,0,,active,pcs,29.0,12.83
+5887661000003532102,SHSET_TXL_MB_WHT,Bright White 3 Piece Twin XL Sheet Set,False,0.0,0.0,0,,active,pcs,15.0,0.0
+5887661000003165466,SHSET_TXL_MB_WHTOLD,Bright White 3 Piece Twin XL Sheet Set OLD,False,0.0,0.0,0,,inactive,pcs,15.0,7.05
+5887661000003165347,CMFT_TXL_ST_CRTRSTRPGRY,Carter Stripe Twin XL Reversible Comforter,False,0.0,0.0,0,,active,pcs,44.99,12.15
+5887661000003847358,DESKLAMP_WHT-D,Charging Catchall Lamp,False,220.0,220.0,0,,active,pcs,29.99,10.0
+5887661000003165668,SHSET_TXL_MB_NAVY,Classic Navy 3 Piece Twin XL Sheet Set,False,0.0,0.0,0,,active,pcs,15.0,7.05
+5887661000003847272,CLIPFAN_WHT-O,Clip Fan,False,6742.0,6742.0,0,,active,pcs,14.99,7.21
+5887661000003847315,CLIPLGHT_WHT,Clip Light,False,6107.0,6107.0,0,,active,pcs,9.99,2.13
+5887661000003845552,SHSET_TXL_MB_DGR-O,Dark Gray 3 Piece Sheet Set,False,67.0,67.0,0,,active,pcs,24.99,7.1
+5887661000003846584,BTHTWLKAS_BLU-D,Deluxe College Bath Towel in White with Blue Trim,False,351.0,351.0,0,,active,pcs,24.99,5.0
+5887661000003846498,BTHTWLKAS_PNK-D,Deluxe College Bath Towel in White with Pink Trim,False,360.0,360.0,0,,active,pcs,24.99,5.0
+5887661000003846541,BTHTWLKAS_TAN-D,Deluxe College Bath Towel in White with Taupe Trim,False,600.0,600.0,0,,active,pcs,24.99,5.0
+5887661000003846756,HAIRTWLKAS_WHT-D,Deluxe College Hair Towel in White,False,260.0,260.0,0,,active,pcs,19.99,4.0
+5887661000003846713,HNDTWLKAS_BLU-D,Deluxe College Hand Towel in White with Blue Trim,False,300.0,300.0,0,,active,pcs,9.99,2.0
+5887661000003846627,HNDTWLKAS_PNK-D,Deluxe College Hand Towel in White with Pink Trim,False,380.0,380.0,0,,active,pcs,9.99,2.0
+5887661000003846670,HNDTWLKAS_TAN-D,Deluxe College Hand Towel in White with Taupe Trim,False,380.0,380.0,0,,active,pcs,9.99,2.0
+5887661000003847229,DESKFAN_WHT,Desk Fan,False,55.0,55.0,0,,active,pcs,14.99,6.29
+5887661000003847401,DSHSET,Dish Set,False,20.0,20.0,0,,active,pcs,14.99,2.62
+5887661000003846197,6PCTWLST_GRY-D,"Dormify Gray 6 Piece Towel Set (2 Bath, 2 Hand, 2 Wash)",False,81.0,81.0,0,,active,pcs,39.99,16.74
+5887661000003847014,STRGBNCHDLX_GRY-D,Dormify Storage Bench,False,60.0,60.0,0,,active,pcs,59.99,26.0
+5887661000003845380,SHSET_TXL_MB_EMRD,Emerald (Greenbriar) 3 Piece Twin XL Sheet Set,False,1037.0,1037.0,0,,active,pcs,24.99,7.1
+5887661000003832149,CMFT_TXL_ST_EMRDSND,Emerald Sand Twin XL Reversible Comforter,False,594.0,594.0,0,,active,pcs,44.99,12.83
+5887661000004173941,PKG_CMF_BKGR,Extra Comfort Pack - Black Gray,True,0.0,0.0,0,,active,Pcs,209.0,69.63
+5887661000004182813,PKG_CMF_BKGR_MEM,Extra Comfort Pack - Black Gray - Memory Foam,True,0.0,0.0,0,,active,Pcs,229.0,87.63
+5887661000004174011,PKG_CMF_PDBK,Extra Comfort Pack - Black Plaid,True,0.0,0.0,0,,active,Pcs,209.0,70.31
+5887661000004182883,PKG_CMF_PDBK_MEM,Extra Comfort Pack - Black Plaid - Memory Foam,True,0.0,0.0,0,,active,Pcs,229.0,88.31
+5887661000004173873,PKG_CMF_PDLP,Extra Comfort Pack - Blush Plaid,True,0.0,0.0,0,,active,Pcs,209.0,71.44
+5887661000004182745,PKG_CMF_PDLP_MEM,Extra Comfort Pack - Blush Plaid - Memory Foam,True,0.0,0.0,0,,active,Pcs,229.0,89.44
+5887661000004174116,PKG_CMF_CTGR,Extra Comfort Pack - Carter Stripe Gray,True,0.0,0.0,0,,active,Pcs,209.0,69.63
+5887661000004182988,PKG_CMF_CTGR_MEM,Extra Comfort Pack - Carter Stripe Gray - Memory Foam,True,0.0,0.0,0,,active,Pcs,229.0,87.63
+5887661000004174186,PKG_CMF_EMSD,Extra Comfort Pack - Emerald Sand,True,0.0,0.0,0,,active,Pcs,209.0,70.41
+5887661000004183058,PKG_CMF_EMSD_MEM,Extra Comfort Pack - Emerald Sand - Memory Foam,True,0.0,0.0,0,,active,Pcs,229.0,88.41
+5887661000004173772,PKG_CMF_ELWH,Extra Comfort Pack - Eyelash White,True,0.0,0.0,0,,active,Pcs,219.0,74.66
+5887661000004182644,PKG_CMF_ELWH_MEM,Extra Comfort Pack - Eyelash White - Memory Foam,True,0.0,0.0,0,,active,Pcs,239.0,92.66
+5887661000004173737,PKG_CMF_PNGR,Extra Comfort Pack - Gray Pintuck,True,0.0,0.0,0,,active,Pcs,219.0,74.58
+5887661000004182609,PKG_CMF_PNGR_MEM,Extra Comfort Pack - Gray Pintuck - Memory Foam,True,0.0,0.0,0,,active,Pcs,239.0,92.58
+5887661000004173908,PKG_CMF_FLGR,Extra Comfort Pack - Green Floral,True,0.0,0.0,0,,active,Pcs,209.0,74.66
+5887661000004182780,PKG_CMF_FLGR_MEM,Extra Comfort Pack - Green Floral - Memory Foam,True,0.0,0.0,0,,active,Pcs,229.0,92.66
+5887661000004173465,PKG_CMF_HSGR,Extra Comfort Pack - Harbor Slate,True,0.0,0.0,0,,active,Pcs,209.0,70.31
+5887661000004182337,PKG_CMF_HSGR_MEM,Extra Comfort Pack - Harbor Slate - Memory Foam,True,0.0,0.0,0,,active,Pcs,229.0,88.31
+5887661000004173838,PKG_CMF_LVLP,Extra Comfort Pack - Lavender Blush,True,0.0,0.0,0,,active,Pcs,209.0,71.39
+5887661000004182710,PKG_CMF_LVLP_MEM,Extra Comfort Pack - Lavender Blush - Memory Foam,True,0.0,0.0,0,,active,Pcs,229.0,89.39
+5887661000004173976,PKG_CMF_NVLB,Extra Comfort Pack - Navy Light Blue,True,0.0,0.0,0,,active,Pcs,209.0,70.41
+5887661000004182848,PKG_CMF_NVLB_MEM,Extra Comfort Pack - Navy Light Blue - Memory Foam,True,0.0,0.0,0,,active,Pcs,229.0,88.41
+5887661000004174046,PKG_CMF_PDNV,Extra Comfort Pack - Navy Plaid,True,0.0,0.0,0,,active,Pcs,209.0,70.31
+5887661000004182918,PKG_CMF_PDNV_MEM,Extra Comfort Pack - Navy Plaid - Memory Foam,True,0.0,0.0,0,,active,Pcs,229.0,88.31
+5887661000004174151,PKG_CMF_STBK,Extra Comfort Pack - Palmer Stripe,True,0.0,0.0,0,,active,Pcs,209.0,70.31
+5887661000004183023,PKG_CMF_STBK_MEM,Extra Comfort Pack - Palmer Stripe - Memory Foam,True,0.0,0.0,0,,active,Pcs,229.0,88.31
+5887661000004174081,PKG_CMF_PPNV,Extra Comfort Pack - Parker Plaid Navy,True,0.0,0.0,0,,active,Pcs,209.0,69.73
+5887661000004182953,PKG_CMF_PPNV_MEM,Extra Comfort Pack - Parker Plaid Navy - Memory Foam,True,0.0,0.0,0,,active,Pcs,229.0,87.73
+5887661000004173498,PKG_CMF_PNPK,Extra Comfort Pack - Pink Pintuck,True,0.0,0.0,0,,active,Pcs,219.0,75.56
+5887661000004182370,PKG_CMF_PNPK_MEM,Extra Comfort Pack - Pink Pintuck - Memory Foam,True,0.0,0.0,0,,active,Pcs,239.0,93.56
+5887661000004173805,PKG_CMF_PLWH,Extra Comfort Pack - Pleated White,True,0.0,0.0,0,,active,Pcs,219.0,74.66
+5887661000004182677,PKG_CMF_PLWH_MEM,Extra Comfort Pack - Pleated White - Memory Foam,True,0.0,0.0,0,,active,Pcs,239.0,92.66
+5887661000004173632,PKG_CMF_PLGR,Extra Comfort Pack - Plush Slate,True,0.0,0.0,0,,active,Pcs,219.0,73.58
+5887661000004182504,PKG_CMF_PLGR_MEM,Extra Comfort Pack - Plush Slate - Memory Foam,True,0.0,0.0,0,,active,Pcs,239.0,91.58
+5887661000004173667,PKG_CMF_PMGR,Extra Comfort Pack - Pom Slate,True,0.0,0.0,0,,active,Pcs,219.0,73.58
+5887661000004182539,PKG_CMF_PMGR_MEM,Extra Comfort Pack - Pom Slate - Memory Foam,True,0.0,0.0,0,,active,Pcs,239.0,91.58
+5887661000004173566,PKG_CMF_PMWH,Extra Comfort Pack - Pom White,True,0.0,0.0,0,,active,Pcs,219.0,74.66
+5887661000004182438,PKG_CMF_PMWH_MEM,Extra Comfort Pack - Pom White - Memory Foam,True,0.0,0.0,0,,active,Pcs,239.0,92.66
+5887661000004173599,PKG_CMF_TFWH,Extra Comfort Pack - Tufted Arch White,True,0.0,0.0,0,,active,Pcs,219.0,74.66
+5887661000004182471,PKG_CMF_TFWH_MEM,Extra Comfort Pack - Tufted Arch White - Memory Foam,True,0.0,0.0,0,,active,Pcs,239.0,92.66
+5887661000004173533,PKG_CMF_PNWH,Extra Comfort Pack - White Pintuck,True,0.0,0.0,0,,active,Pcs,219.0,75.66
+5887661000004182405,PKG_CMF_PNWH_MEM,Extra Comfort Pack - White Pintuck - Memory Foam,True,0.0,0.0,0,,active,Pcs,239.0,93.66
+5887661000004173702,PKG_CMF_WFBL,Extra Comfort Pack - Willow Floral Blue Mist,True,0.0,0.0,0,,active,Pcs,209.0,70.71
+5887661000004182574,PKG_CMF_WFBL_MEM,Extra Comfort Pack - Willow Floral Blue Mist - Memory Foam,True,0.0,0.0,0,,active,Pcs,229.0,88.71
+5887661000003845122,CMFT_TXL_PR_FRNGWHT-D,Eyelash (Juliette) White Twin XL Comforter,False,558.0,558.0,0,,active,pcs,54.99,16.0
+5887661000004174865,PKG_HME_BKGR,Feels Like Home Comfort Pack - Black Gray,True,0.0,0.0,0,,active,Pcs,299.0,92.343497
+5887661000004183737,PKG_HME_BKGR_MEM,Feels Like Home Comfort Pack - Black Gray - Memory Foam,True,0.0,0.0,0,,active,Pcs,319.0,110.343497
+5887661000004174959,PKG_HME_PDBK,Feels Like Home Comfort Pack - Black Plaid,True,0.0,0.0,0,,active,Pcs,299.0,93.023497
+5887661000004183831,PKG_HME_PDBK_MEM,Feels Like Home Comfort Pack - Black Plaid - Memory Foam,True,0.0,0.0,0,,active,Pcs,319.0,111.023497
+5887661000004174773,PKG_HME_PDLP,Feels Like Home Comfort Pack - Blush Plaid,True,0.0,0.0,0,,active,Pcs,299.0,94.153497
+5887661000004183645,PKG_HME_PDLP_MEM,Feels Like Home Comfort Pack - Blush Plaid - Memory Foam,True,0.0,0.0,0,,active,Pcs,319.0,112.153497
+5887661000004175100,PKG_HME_CTGR,Feels Like Home Comfort Pack - Carter Stripe Gray,True,0.0,0.0,0,,active,Pcs,299.0,92.343497
+5887661000004183972,PKG_HME_CTGR_MEM,Feels Like Home Comfort Pack - Carter Stripe Gray - Memory Foam,True,0.0,0.0,0,,active,Pcs,319.0,110.343497
+5887661000004175194,PKG_HME_EMSD,Feels Like Home Comfort Pack - Emerald Sand,True,0.0,0.0,0,,active,Pcs,299.0,93.123497
+5887661000004184066,PKG_HME_EMSD_MEM,Feels Like Home Comfort Pack - Emerald Sand - Memory Foam,True,0.0,0.0,0,,active,Pcs,319.0,111.123497
+5887661000004174636,PKG_HME_ELWH,Feels Like Home Comfort Pack - Eyelash White,True,0.0,0.0,0,,active,Pcs,309.0,97.373497
+5887661000004183508,PKG_HME_ELWH_MEM,Feels Like Home Comfort Pack - Eyelash White - Memory Foam,True,0.0,0.0,0,,active,Pcs,329.0,115.373497
+5887661000004174589,PKG_HME_PNGR,Feels Like Home Comfort Pack - Gray Pintuck,True,0.0,0.0,0,,active,Pcs,309.0,97.293497
+5887661000004183461,PKG_HME_PNGR_MEM,Feels Like Home Comfort Pack - Gray Pintuck - Memory Foam,True,0.0,0.0,0,,active,Pcs,329.0,115.293497
+5887661000004174820,PKG_HME_FLGR,Feels Like Home Comfort Pack - Green Floral,True,0.0,0.0,0,,active,Pcs,299.0,97.373497
+5887661000004183692,PKG_HME_FLGR_MEM,Feels Like Home Comfort Pack - Green Floral - Memory Foam,True,0.0,0.0,0,,active,Pcs,319.0,115.373497
+5887661000004174221,PKG_HME_HSGR,Feels Like Home Comfort Pack - Harbor Slate,True,0.0,0.0,0,,active,Pcs,299.0,93.023497
+5887661000004183093,PKG_HME_HSGR_MEM,Feels Like Home Comfort Pack - Harbor Slate - Memory Foam,True,0.0,0.0,0,,active,Pcs,319.0,111.023497
+5887661000004174726,PKG_HME_LVLP,Feels Like Home Comfort Pack - Lavender Blush,True,0.0,0.0,0,,active,Pcs,299.0,94.103497
+5887661000004183598,PKG_HME_LVLP_MEM,Feels Like Home Comfort Pack - Lavender Blush - Memory Foam,True,0.0,0.0,0,,active,Pcs,319.0,112.103497
+5887661000004174912,PKG_HME_NVLB,Feels Like Home Comfort Pack - Navy Light Blue,True,0.0,0.0,0,,active,Pcs,299.0,93.123497
+5887661000004183784,PKG_HME_NVLB_MEM,Feels Like Home Comfort Pack - Navy Light Blue - Memory Foam,True,0.0,0.0,0,,active,Pcs,319.0,111.123497
+5887661000004175006,PKG_HME_PDNV,Feels Like Home Comfort Pack - Navy Plaid,True,0.0,0.0,0,,active,Pcs,299.0,93.023497
+5887661000004183878,PKG_HME_PDNV_MEM,Feels Like Home Comfort Pack - Navy Plaid - Memory Foam,True,0.0,0.0,0,,active,Pcs,319.0,111.023497
+5887661000004175147,PKG_HME_STBK,Feels Like Home Comfort Pack - Palmer Stripe,True,0.0,0.0,0,,active,Pcs,299.0,93.023497
+5887661000004184019,PKG_HME_STBK_MEM,Feels Like Home Comfort Pack - Palmer Stripe - Memory Foam,True,0.0,0.0,0,,active,Pcs,319.0,111.023497
+5887661000004175053,PKG_HME_PPNV,Feels Like Home Comfort Pack - Parker Plaid Navy,True,0.0,0.0,0,,active,Pcs,299.0,92.443497
+5887661000004183925,PKG_HME_PPNV_MEM,Feels Like Home Comfort Pack - Parker Plaid Navy - Memory Foam,True,0.0,0.0,0,,active,Pcs,319.0,110.443497
+5887661000004174266,PKG_HME_PNPK,Feels Like Home Comfort Pack - Pink Pintuck,True,0.0,0.0,0,,active,Pcs,309.0,98.273497
+5887661000004183138,PKG_HME_PNPK_MEM,Feels Like Home Comfort Pack - Pink Pintuck - Memory Foam,True,0.0,0.0,0,,active,Pcs,329.0,116.273497
+5887661000004174681,PKG_HME_PLWH,Feels Like Home Comfort Pack - Pleated White,True,0.0,0.0,0,,active,Pcs,309.0,97.373497
+5887661000004183553,PKG_HME_PLWH_MEM,Feels Like Home Comfort Pack - Pleated White - Memory Foam,True,0.0,0.0,0,,active,Pcs,329.0,115.373497
+5887661000004174448,PKG_HME_PLGR,Feels Like Home Comfort Pack - Plush Slate,True,0.0,0.0,0,,active,Pcs,309.0,96.293497
+5887661000004183320,PKG_HME_PLGR_MEM,Feels Like Home Comfort Pack - Plush Slate - Memory Foam,True,0.0,0.0,0,,active,Pcs,329.0,114.293497
+5887661000004174495,PKG_HME_PMGR,Feels Like Home Comfort Pack - Pom Slate,True,0.0,0.0,0,,active,Pcs,309.0,96.293497
+5887661000004183367,PKG_HME_PMGR_MEM,Feels Like Home Comfort Pack - Pom Slate - Memory Foam,True,0.0,0.0,0,,active,Pcs,329.0,114.293497
+5887661000004174358,PKG_HME_PMWH,Feels Like Home Comfort Pack - Pom White,True,0.0,0.0,0,,active,Pcs,309.0,97.373497
+5887661000004183230,PKG_HME_PMWH_MEM,Feels Like Home Comfort Pack - Pom White - Memory Foam,True,0.0,0.0,0,,active,Pcs,329.0,115.373497
+5887661000004174403,PKG_HME_TFWH,Feels Like Home Comfort Pack - Tufted Arch White,True,0.0,0.0,0,,active,Pcs,309.0,97.373497
+5887661000004183275,PKG_HME_TFWH_MEM,Feels Like Home Comfort Pack - Tufted Arch White - Memory Foam,True,0.0,0.0,0,,active,Pcs,329.0,115.373497
+5887661000004174313,PKG_HME_PNWH,Feels Like Home Comfort Pack - White Pintuck,True,0.0,0.0,0,,active,Pcs,309.0,98.373497
+5887661000004183185,PKG_HME_PNWH_MEM,Feels Like Home Comfort Pack - White Pintuck - Memory Foam,True,0.0,0.0,0,,active,Pcs,329.0,116.373497
+5887661000004174542,PKG_HME_WFBL,Feels Like Home Comfort Pack - Willow Floral Blue Mist,True,0.0,0.0,0,,active,Pcs,299.0,93.423497
+5887661000004183414,PKG_HME_WFBL_MEM,Feels Like Home Comfort Pack - Willow Floral Blue Mist - Memory Foam,True,0.0,0.0,0,,active,Pcs,319.0,111.423497
+5887661000003991571,PKGFL_CMP_PDBK,Follett Complete Pack - Black Plaid,True,35.0,35.0,0,,active,Pcs,149.0,120.0
+5887661000003991465,PKGFL_CMP_PDLP,Follett Complete Pack - Blush Plaid,True,6.0,6.0,0,,active,Pcs,149.0,120.0
+5887661000003991308,PKGFL_CMP_HSGR,Follett Complete Pack - Harbor Slate,True,17.0,17.0,0,,active,Pcs,149.0,120.0
+5887661000003991412,PKGFL_CMP_LVLP,Follett Complete Pack - Lavender Blush,True,4.0,4.0,0,,active,Pcs,149.0,120.0
+5887661000003991518,PKGFL_CMP_NVLB,Follett Complete Pack - Navy Light Blue,True,16.0,16.0,0,,active,Pcs,149.0,120.0
+5887661000003991620,PKGFL_CMP_STBK,Follett Complete Pack - Palmer Stripe,True,18.0,18.0,0,,active,Pcs,149.0,120.0
+5887661000003991359,PKGFL_CMP_PMGR,Follett Complete Pack - Pom Slate,True,6.0,6.0,0,,active,Pcs,149.0,120.0
+5887661000003499485,PKGFL_CMP_PDBK2,Follett Complete Pack Black Plaid,False,998.0,998.0,0,,inactive,pcs,149.0,0.0
+5887661000003499385,PKGFL_CMP_PDLP2,Follett Complete Pack Blush Plaid,False,999.0,999.0,0,,inactive,pcs,149.0,0.0
+5887661000003499235,PKGFL_CMP_HSGR2,Follett Complete Pack Harbor Slate,False,1000.0,1000.0,0,,inactive,pcs,149.0,0.0
+5887661000003499335,PKGFL_CMP_LVLP2,Follett Complete Pack Lavender Blush,False,1000.0,1000.0,0,,inactive,pcs,149.0,0.0
+5887661000003499435,PKGFL_CMP_NVLB2,Follett Complete Pack Navy Light Blue,False,1000.0,1000.0,0,,inactive,pcs,149.0,0.0
+5887661000003499535,PKGFL_CMP_STBK2,Follett Complete Pack Palmer Stripe,False,1000.0,1000.0,0,,inactive,pcs,149.0,0.0
+5887661000003499285,PKGFL_CMP_PMGR2,Follett Complete Pack Pom Slate,False,1000.0,1000.0,0,,inactive,pcs,149.0,0.0
+5887661000003991232,PKGFL_DLX_PDBK,Follett Deluxe Pack - Black Plaid,True,179.0,179.0,0,,active,Pcs,121.0,94.0
+5887661000003991150,PKGFL_DLX_PDLP,Follett Deluxe Pack - Blush Plaid,True,18.0,18.0,0,,active,Pcs,121.0,94.0
+5887661000003991029,PKGFL_DLX_HSGR,Follett Deluxe Pack - Harbor Slate,True,60.0,60.0,0,,active,Pcs,121.0,94.0
+5887661000003991109,PKGFL_DLX_LVLP,Follett Deluxe Pack - Lavender Blush,True,18.0,18.0,0,,active,Pcs,121.0,94.0
+5887661000003991191,PKGFL_DLX_NVLB,Follett Deluxe Pack - Navy Light Blue,True,120.0,120.0,0,,active,Pcs,121.0,94.0
+5887661000003991269,PKGFL_DLX_STBK,Follett Deluxe Pack - Palmer Stripe,True,100.0,100.0,0,,active,Pcs,121.0,94.0
+5887661000003991068,PKGFL_DLX_PMGR,Follett Deluxe Pack - Pom Slate,True,18.0,18.0,0,,active,Pcs,121.0,94.0
+5887661000003499135,PKGFL_DLX_PDBK2,Follett Deluxe Pack Black Plaid,False,1000.0,1000.0,0,,inactive,pcs,121.0,0.0
+5887661000003499035,PKGFL_DLX_PDLP2,Follett Deluxe Pack Blush Plaid,False,1000.0,1000.0,0,,inactive,pcs,121.0,0.0
+5887661000003498885,PKGFL_DLX_HSGR2,Follett Deluxe Pack Harbor Slate,False,1000.0,1000.0,0,,inactive,pcs,121.0,0.0
+5887661000003498985,PKGFL_DLX_LVLP2,Follett Deluxe Pack Lavender Blush,False,999.0,999.0,0,,inactive,pcs,121.0,0.0
+5887661000003499085,PKGFL_DLX_NVLB2,Follett Deluxe Pack Navy Light Blue,False,1000.0,1000.0,0,,inactive,pcs,121.0,0.0
+5887661000003499185,PKGFL_DLX_STBK2,Follett Deluxe Pack Palmer Stripe,False,1000.0,1000.0,0,,inactive,pcs,121.0,0.0
+5887661000003498935,PKGFL_DLX_PMGR2,Follett Deluxe Pack Pom Slate,False,1000.0,1000.0,0,,inactive,pcs,121.0,0.0
+5887661000003987192,PKGFL_ESS_HSGR,Follett Essential Pack -  Harbor Slate,True,17.0,17.0,0,,active,Pcs,78.0,65.0
+5887661000003987669,PKGFL_ESS_PDBK,Follett Essential Pack - Black Plaid,True,60.0,60.0,0,,active,Pcs,78.0,65.0
+5887661000003987607,PKGFL_ESS_PDLP,Follett Essential Pack - Blush Plaid,True,0.0,0.0,0,,active,Pcs,78.0,65.0
+5887661000003987576,PKGFL_ESS_LVLP,Follett Essential Pack - Lavender Blush,True,0.0,0.0,0,,active,Pcs,78.0,65.0
+5887661000003987638,PKGFL_ESS_NVLB,Follett Essential Pack - Navy Light Blue,True,29.0,29.0,0,,active,Pcs,78.0,65.0
+5887661000003987696,PKGFL_ESS_STBK,Follett Essential Pack - Palmer Stripe,True,29.0,29.0,0,,active,Pcs,78.0,65.0
+5887661000003987545,PKGFL_ESS_PMGR,Follett Essential Pack - Pom Slate,True,0.0,0.0,0,,active,Pcs,78.0,65.0
+5887661000003498785,PKGFL_ESS_PDBK2,Follett Essential Pack Black Plaid,False,1000.0,1000.0,0,,inactive,pcs,78.0,0.0
+5887661000003498685,PKGFL_ESS_PDLP2,Follett Essential Pack Blush Plaid,False,1000.0,1000.0,0,,inactive,pcs,78.0,0.0
+5887661000003498533,PKGFL_ESS_HSGR2,Follett Essential Pack Harbor Slate,False,1000.0,1000.0,0,,inactive,pcs,78.0,0.0
+5887661000003498635,PKGFL_ESS_LVLP2,Follett Essential Pack Lavender Blush,False,1000.0,1000.0,0,,inactive,pcs,78.0,0.0
+5887661000003498735,PKGFL_ESS_NVLB2,Follett Essential Pack Navy Light Blue,False,1000.0,1000.0,0,,inactive,pcs,78.0,0.0
+5887661000003498835,PKGFL_ESS_STBK2,Follett Essential Pack Palmer Stripe,False,1000.0,1000.0,0,,inactive,pcs,78.0,0.0
+5887661000003498585,PKGFL_ESS_PMGR2,Follett Essential Pack Pom Slate,False,1000.0,1000.0,0,,inactive,pcs,78.0,0.0
+5887661000004175969,PKG_FFN_BKGR,Fully Furnished Comfort Pack - Black Gray,True,0.0,0.0,0,,active,Pcs,459.0,119.603497
+5887661000004184841,PKG_FFN_BKGR_MEM,Fully Furnished Comfort Pack - Black Gray - Memory Foam,True,0.0,0.0,0,,active,Pcs,479.0,137.603497
+5887661000004176075,PKG_FFN_PDBK,Fully Furnished Comfort Pack - Black Plaid,True,0.0,0.0,0,,active,Pcs,459.0,120.283497
+5887661000004184947,PKG_FFN_PDBK_MEM,Fully Furnished Comfort Pack - Black Plaid - Memory Foam,True,0.0,0.0,0,,active,Pcs,479.0,138.283497
+5887661000004175865,PKG_FFN_PDLP,Fully Furnished Comfort Pack - Blush Plaid,True,0.0,0.0,0,,active,Pcs,459.0,121.413497
+5887661000004184737,PKG_FFN_PDLP_MEM,Fully Furnished Comfort Pack - Blush Plaid - Memory Foam,True,0.0,0.0,0,,active,Pcs,479.0,139.413497
+5887661000004176234,PKG_FFN_CTGR,Fully Furnished Comfort Pack - Carter Stripe Gray,True,0.0,0.0,0,,active,Pcs,459.0,119.603497
+5887661000004185106,PKG_FFN_CTGR_MEM,Fully Furnished Comfort Pack - Carter Stripe Gray - Memory Foam,True,0.0,0.0,0,,active,Pcs,479.0,137.603497
+5887661000004176340,PKG_FFN_EMSD,Fully Furnished Comfort Pack - Emerald Sand,True,0.0,0.0,0,,active,Pcs,459.0,120.383497
+5887661000004185212,PKG_FFN_EMSD_MEM,Fully Furnished Comfort Pack - Emerald Sand - Memory Foam,True,0.0,0.0,0,,active,Pcs,479.0,138.383497
+5887661000004175710,PKG_FFN_ELWH,Fully Furnished Comfort Pack - Eyelash White,True,0.0,0.0,0,,active,Pcs,469.0,124.633497
+5887661000004184582,PKG_FFN_ELWH_MEM,Fully Furnished Comfort Pack - Eyelash White - Memory Foam,True,0.0,0.0,0,,active,Pcs,489.0,142.633497
+5887661000004175657,PKG_FFN_PNGR,Fully Furnished Comfort Pack - Gray Pintuck,True,0.0,0.0,0,,active,Pcs,469.0,124.553497
+5887661000004184529,PKG_FFN_PNGR_MEM,Fully Furnished Comfort Pack - Gray Pintuck - Memory Foam,True,0.0,0.0,0,,active,Pcs,489.0,142.553497
+5887661000004175918,PKG_FFN_FLGR,Fully Furnished Comfort Pack - Green Floral,True,0.0,0.0,0,,active,Pcs,459.0,124.633497
+5887661000004184790,PKG_FFN_FLGR_MEM,Fully Furnished Comfort Pack - Green Floral - Memory Foam,True,0.0,0.0,0,,active,Pcs,479.0,142.633497
+5887661000004175241,PKG_FFN_HSGR,Fully Furnished Comfort Pack - Harbor Slate,True,0.0,0.0,0,,active,Pcs,459.0,120.283497
+5887661000004184113,PKG_FFN_HSGR_MEM,Fully Furnished Comfort Pack - Harbor Slate - Memory Foam,True,0.0,0.0,0,,active,Pcs,479.0,138.283497
+5887661000004175812,PKG_FFN_LVLP,Fully Furnished Comfort Pack - Lavender Blush,True,0.0,0.0,0,,active,Pcs,459.0,121.363497
+5887661000004184684,PKG_FFN_LVLP_MEM,Fully Furnished Comfort Pack - Lavender Blush - Memory Foam,True,0.0,0.0,0,,active,Pcs,479.0,139.363497
+5887661000004176022,PKG_FFN_NVLB,Fully Furnished Comfort Pack - Navy Light Blue,True,0.0,0.0,0,,active,Pcs,459.0,120.383497
+5887661000004184894,PKG_FFN_NVLB_MEM,Fully Furnished Comfort Pack - Navy Light Blue - Memory Foam,True,0.0,0.0,0,,active,Pcs,479.0,138.383497
+5887661000004176128,PKG_FFN_PDNV,Fully Furnished Comfort Pack - Navy Plaid,True,0.0,0.0,0,,active,Pcs,459.0,120.283497
+5887661000004185000,PKG_FFN_PDNV_MEM,Fully Furnished Comfort Pack - Navy Plaid - Memory Foam,True,0.0,0.0,0,,active,Pcs,479.0,138.283497
+5887661000004176287,PKG_FFN_STBK,Fully Furnished Comfort Pack - Palmer Stripe,True,0.0,0.0,0,,active,Pcs,459.0,120.283497
+5887661000004185159,PKG_FFN_STBK_MEM,Fully Furnished Comfort Pack - Palmer Stripe - Memory Foam,True,0.0,0.0,0,,active,Pcs,479.0,138.283497
+5887661000004176181,PKG_FFN_PPNV,Fully Furnished Comfort Pack - Parker Plaid Navy,True,0.0,0.0,0,,active,Pcs,459.0,119.703497
+5887661000004185053,PKG_FFN_PPNV_MEM,Fully Furnished Comfort Pack - Parker Plaid Navy - Memory Foam,True,0.0,0.0,0,,active,Pcs,479.0,137.703497
+5887661000004175292,PKG_FFN_PNPK,Fully Furnished Comfort Pack - Pink Pintuck,True,0.0,0.0,0,,active,Pcs,469.0,125.533497
+5887661000004184164,PKG_FFN_PNPK_MEM,Fully Furnished Comfort Pack - Pink Pintuck - Memory Foam,True,0.0,0.0,0,,active,Pcs,489.0,143.533497
+5887661000004175761,PKG_FFN_PLWH,Fully Furnished Comfort Pack - Pleated White,True,0.0,0.0,0,,active,Pcs,469.0,124.633497
+5887661000004184633,PKG_FFN_PLWH_MEM,Fully Furnished Comfort Pack - Pleated White - Memory Foam,True,0.0,0.0,0,,active,Pcs,489.0,142.633497
+5887661000004175498,PKG_FFN_PLGR,Fully Furnished Comfort Pack - Plush Slate,True,0.0,0.0,0,,active,Pcs,469.0,123.553497
+5887661000004184370,PKG_FFN_PLGR_MEM,Fully Furnished Comfort Pack - Plush Slate - Memory Foam,True,0.0,0.0,0,,active,Pcs,489.0,141.553497
+5887661000004175551,PKG_FFN_PMGR,Fully Furnished Comfort Pack - Pom Slate,True,0.0,0.0,0,,active,Pcs,469.0,123.553497
+5887661000004184423,PKG_FFN_PMGR_MEM,Fully Furnished Comfort Pack - Pom Slate - Memory Foam,True,0.0,0.0,0,,active,Pcs,489.0,141.553497
+5887661000004175396,PKG_FFN_PMWH,Fully Furnished Comfort Pack - Pom White,True,0.0,0.0,0,,active,Pcs,469.0,124.633497
+5887661000004184268,PKG_FFN_PMWH_MEM,Fully Furnished Comfort Pack - Pom White - Memory Foam,True,0.0,0.0,0,,active,Pcs,489.0,142.633497
+5887661000004175447,PKG_FFN_TFWH,Fully Furnished Comfort Pack - Tufted Arch White,True,0.0,0.0,0,,active,Pcs,469.0,124.633497
+5887661000004184319,PKG_FFN_TFWH_MEM,Fully Furnished Comfort Pack - Tufted Arch White - Memory Foam,True,0.0,0.0,0,,active,Pcs,489.0,142.633497
+5887661000004175345,PKG_FFN_PNWH,Fully Furnished Comfort Pack - White Pintuck,True,0.0,0.0,0,,active,Pcs,469.0,125.633497
+5887661000004184217,PKG_FFN_PNWH_MEM,Fully Furnished Comfort Pack - White Pintuck - Memory Foam,True,0.0,0.0,0,,active,Pcs,489.0,143.633497
+5887661000004175604,PKG_FFN_WFBL,Fully Furnished Comfort Pack - Willow Floral Blue Mist,True,0.0,0.0,0,,active,Pcs,459.0,120.683497
+5887661000004184476,PKG_FFN_WFBL_MEM,Fully Furnished Comfort Pack - Willow Floral Blue Mist - Memory Foam,True,0.0,0.0,0,,active,Pcs,479.0,138.683497
+5887661000003165559,SHSET_TXL_MB_BLK,Graphite 3 Piece Twin XL Sheet Set,False,0.0,0.0,0,,active,pcs,24.99,7.05
+5887661000003165316,CMFT_TXL_ST_BLKGRY,Graphite Slate Twin XL Reversible Comforter,False,0.0,0.0,0,,active,pcs,44.99,12.15
+5887661000003845466,SHSET_TXL_MB_GRY-O,Gray 3 Piece Sheet Set,False,1277.0,1277.0,0,,active,pcs,24.99,7.1
+5887661000003846025,3PCTWLST_GRY,"Gray 3 Piece Towel Set (Bath, Hand, Wash)",False,1433.0,1433.0,0,,active,pcs,19.99,13.5
+5887661000003846111,6PCTWLST_GRY,"Gray 6 Piece Towel Set (2 Bath, 2 Hand, 2 Wash)",False,2219.0,2219.0,0,,active,pcs,39.99,23.5
+5887661000003846283,6PCDLXTWLST_GRY-D,"Gray 6 Piece Towel Set (4 Bath, 2 Hand)",False,987.0,987.0,0,,active,pcs,39.99,18.0
+5887661000003846455,BTHSHT_GRY-O,Gray Bath Sheet,False,1313.0,1313.0,0,,active,pcs,19.99,5.0
+5887661000003847057,CHRGCRT_GRY-D,Gray Charging 3 Drawer Storage Cart,False,711.0,711.0,0,,active,pcs,59.99,24.0
+5887661000003845853,PLSHTHRW_GRY-O,Gray Micro Plush Throw,False,1501.0,1501.0,0,,active,pcs,24.99,2.98
+5887661000003845079,CMFT_TXL_ST_FLWRGRN-D,Green Floral (Kyra) Twin XL Comforter,False,172.0,172.0,0,,active,pcs,54.99,16.0
+5887661000003678076,HNGSHLVS_GRY,Hanging Fabric Shelves,False,170.0,170.0,0,,active,pcs,13.99,2.145627
+5887661000003165528,SHSET_TXL_MB_SLATEOLD,Harbor Mist 3 Piece Twin XL Sheet SetOLD,False,0.0,0.0,0,,inactive,pcs,15.0,7.05
+5887661000003846799,LNDRYBAG_GRY,Laundry Bag,False,14726.0,14726.0,0,,active,pcs,9.99,2.7
+5887661000003526136,SHSET_TXL_MB_LAV,Lavender 3 Piece Twin XL Sheet Set,False,753.0,753.0,0,,active,pcs,15.0,7.1
+5887661000003523896,CMFT_TXL_ST_BLSHLAV,Lavender Blush Twin XL Reversible Comforter,False,831.0,831.0,0,,active,pcs,29.0,12.83
+5887661000003526232,SHSET_TXL_MB_SKYBL,Light Blue 3 Piece Twin XL Sheet Set,False,693.0,693.0,0,,active,,15.0,0.0
+5887661000003846240,6PCTWLST_LGR-D,"Martex Light Gray 6 Piece Towel Set (2 Bath, 2 Hand, 2 Wash)",False,29.0,29.0,0,,active,pcs,39.99,16.74
+5887661000003477108,BEDTPR_TXL_MEMFOAM,Memory Foam Twin XL Mattress Topper,False,58.0,58.0,0,,active,pcs,39.99,10.55
+5887661000003678035,MVNGBAGHNDL_CLR,Moving Bag,False,0.0,0.0,0,,active,pcs,6.99,1.74787
+5887661000003477017,STRGMLTISHLF_WHT,Multi-section Storage Organizer,False,0.0,0.0,0,,active,pcs,39.0,15.0
+5887661000003523992,CMFT_TXL_ST_SKYBLNVY,Navy Light Blue Twin XL Reversible Comforter,False,775.0,775.0,0,,active,pcs,29.0,12.83
+5887661000003832192,CMFT_TXL_ST_NVYPLD,Navy Plaid Twin XL Reversible Comforter,False,622.0,622.0,0,,active,pcs,44.99,12.83
+5887661000003435023,OTDSHORG_GRY,Over-the-Door Shoe Organizer,False,66.0,66.0,0,500.0,active,pcs,0.0,4.5
+5887661000003477002,OTFSHELF_BLK,Over-the-Fridge Shelf,False,0.0,0.0,0,5.0,active,pcs,60.0,33.5
+5887661000003526088,CMFT_TXL_ST_BLKSTRP-O,Palmer Stripe Twin XL Reversible Comforter,False,1867.0,1867.0,0,,active,pcs,29.0,12.83
+5887661000003165409,CMFT_TXL_ST_PRKPLDNVY,Parker Plaid-Navy Twin XL Reversible Comforter,False,0.0,0.0,0,,active,pcs,44.99,12.15
+5887661000003477123,PILLOW,Pillow,False,7961.0,7961.0,0,,active,pcs,15.99,2.65
+5887661000003846369,6PCDLXTWLST_PNK-D,"Pink 6 Piece Towel Set (4 Bath, 2 Hand)",False,432.0,432.0,0,,active,pcs,39.99,18.0
+5887661000003845251,CMFT_TXL_PR_PLTDWHT-D,Pleated (Caia Cloud) White Twin XL Reversible Comforter,False,85.0,85.0,0,,active,pcs,54.99,16.0
+5887661000003832235,CMFT_TXL_PR_PLSHSLT-O,Plush Slate Twin XL Reversible Comforter,False,698.0,698.0,0,,active,pcs,44.99,16.0
+5887661000003845165,CMFT_TXL_PR_POMWHT-D,Pom (Billie) White Twin XL Comforter,False,210.0,210.0,0,,active,pcs,54.99,16.0
+5887661000003523848,CMFT_TXL_PR_POMSLT-O,Pom Slate Twin XL Reversible Comforter,False,1362.0,1362.0,0,,active,pcs,29.0,16.0
+5887661000003165195,CMFT_TXL_PR_PNTCKWHT,Pure Pintuck-Classic White Twin XL Reversible Comforter,False,0.0,0.0,0,,active,pcs,54.99,17.0
+5887661000003165271,CMFT_TXL_PR_PNTCKGRY,Pure Pintuck-Slate Twin XL Reversible Comforter,False,0.0,0.0,0,,active,pcs,54.99,17.0
+5887661000003165240,CMFT_TXL_PR_PNTCKPNK,Pure Pintuck-Soft Pink Twin XL Reversible Comforter,False,0.0,0.0,0,,active,pcs,54.99,17.0
+5887661000003845423,SHSET_TXL_MB_SAND,Sand (Eucalyptus) 3 Piece Twin XL Sheet Set,False,162.0,162.0,0,,active,pcs,24.99,7.1
+5887661000003384029,SHWRCDY_BLK,Shower Caddy,False,4040.0,4040.0,0,500.0,active,pcs,0.0,3.79
+5887661000003532184,SHSET_TXL_MB_SLATE,Slate 3 Piece Twin XL Sheet Set,False,3420.0,3420.0,0,,active,pcs,15.0,7.05
+5887661000003523800,CMFT_TXL_ST_SLATE,Slate Twin XL Reversible Comforter,False,887.0,887.0,0,,active,pcs,29.0,12.83
+5887661000004886002,,Slate Twin XL Reversible Comforter for Campus Living,False,0.0,0.0,0,,confirmation_pending,kg,44.99,44.99
+5887661000003165497,SHSET_TXL_MB_PNK,Soft Pink 3 Piece Twin XL Sheet Set,False,0.0,0.0,0,,active,pcs,24.99,7.05
+5887661000003846971,STRGBNCH_GRY,Storage Bench,False,42.0,42.0,0,,active,pcs,59.99,25.67
+5887661000003846885,STRGCUBE_GRY,Storage Cube,False,67.0,67.0,0,,active,pcs,24.99,2.7
+5887661000003846928,STRGOTMN_GRY,Storage Ottoman,False,300.0,300.0,0,,active,pcs,24.99,13.32
+5887661000004145006,PKG SVR,Test Assembly,True,23.0,23.0,0,,inactive,pcs,99.0,50.0
+5887661000003150033,12345678910112,Test Item,False,0.0,0.0,0,,inactive,pcs,19.99,7.25
+5887661000003527278,testtest2,Test Item2,False,0.0,0.0,0,,inactive,pcs,19.99,7.25
+5887661000004226001,test4,Test4stock,False,-2.0,-2.0,0,,inactive,pcs,1.0,0.25
+5887661000003898014,Testcomp1,Testcomp1,False,57.0,57.0,0,,inactive,pcs,5.0,1.0
+5887661000003898029,Testcomp2,Testcomp2,False,67.0,67.0,0,,inactive,pcs,8.0,2.0
+5887661000003898044,Testcomp3,Testcomp3,False,90.0,90.0,0,,inactive,pcs,10.0,5.0
+5887661000003898061,TestAssem,Testframeassembly,True,8.0,8.0,0,,inactive,pcs,28.0,9.0
+5887661000003898082,TestKit,TestFrameKit,True,0.0,0.0,0,,inactive,pcs,40.0,0.0
+5887661000003845208,CMFT_TXL_PR_ARCHWHT-D,Tufted (Andie) Arch White Twin XL Comforter,False,318.0,318.0,0,,active,pcs,54.99,16.0
+5887661000003845810,PLSHBLNKT_TXL_BLK-O,Twin XL Black Micro Plush Blanket,False,90.0,90.0,0,,active,pcs,24.99,8.94
+5887661000003845681,BEDTPR_TXL_EGCRT,Twin XL Egg Crate Foam Bed Topper,False,3890.0,3890.0,0,,active,pcs,24.99,2.7
+5887661000003845724,PLSHBLNKT_TXL_GRY,Twin XL Gray Micro Plush Blanket,False,2327.0,2327.0,0,,active,pcs,24.99,8.94
+5887661000003477046,MATPAD_TXL,Twin XL Mattress Pad,False,7330.0,7330.0,0,1000.0,active,pcs,0.0,5.95
+5887661000003845638,MATPRT_TXL-D,Twin XL Mattress Protector,False,4671.0,4671.0,0,,active,pcs,29.99,14.5
+5887661000003845767,PLSHBLNKT_TXL_WHT-O,Twin XL White Micro Plush Blanket,False,5659.0,5659.0,0,,active,pcs,24.99,8.94
+5887661000003845982,BEDSKRT_WHT-D,TXL White Bed Skirt,False,816.0,816.0,0,,active,pcs,24.99,12.0
+5887661000003847143,STRGBINS3STCK_WHT-D,Underbed Stackable Storage Bins (Set of Three),False,457.0,457.0,0,,active,pcs,24.99,3.0
+5887661000003846842,UBSTGBAG_GRY,Underbed Storage Bag,False,14120.0,14120.0,0,,active,pcs,9.99,2.95
+5887661000003847444,UTNSLSET,Untensil Set,False,330.0,330.0,0,,active,pcs,6.99,0.84
+5887661000003845595,SHSET_TXL_CT_WHT-O,White 3 Piece Cotton Sheet Set,False,0.0,0.0,0,,active,pcs,24.99,7.0
+5887661000003845509,SHSET_TXL_MB_WHT-O,White 3 Piece Sheet Set,False,3040.0,3040.0,0,,active,pcs,15.0,7.1
+5887661000003846068,3PCTWLST_WHT,"White 3 Piece Towel Set (Bath, Hand, Wash)",False,522.0,522.0,0,,active,pcs,19.99,13.5
+5887661000003846326,6PCDLXTWLST_WHT-D,"White 6 Piece Towel Set (4 Bath, 2 Hand)",False,762.0,762.0,0,,active,pcs,39.99,18.0
+5887661000003678183,6PCTWLST_WHT,White 6-piece towel set,False,732.0,732.0,0,,active,pcs,39.99,14.98
+5887661000003847100,CHRGCRT_WHT-D,White Charging 3 Drawer Storage Cart,False,184.0,184.0,0,,active,pcs,59.99,24.0
+5887661000003845939,TSLFRNGTHRW_WHT-D,White Tassel Fringe Throw,False,124.0,124.0,0,,active,pcs,24.99,11.25
+5887661000003165378,CMFT_TXL_ST_BLUFLRL,Willow Floral-Blue Mist Twin XL Reversible Comforter,False,0.0,0.0,0,,active,pcs,44.99,12.15

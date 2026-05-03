@@ -217,6 +217,62 @@ def main():
     if rows:
         st.dataframe(pd.DataFrame(rows), use_container_width=True, hide_index=True)
 
+    st.divider()
+    st.subheader("Season Prediction Tool")
+    st.caption(
+        "Enter where your school is in the season to estimate total orders. "
+        "Predicted total = current orders ÷ curve % at that day. "
+        "Range uses the p25–p75 band of training schools."
+    )
+
+    pt_col1, pt_col2 = st.columns(2)
+    with pt_col1:
+        pred_day = st.number_input(
+            "Days since first order", min_value=1, max_value=max_day, value=min(30, max_day)
+        )
+    with pt_col2:
+        pred_orders = st.number_input("Orders so far", min_value=1, value=50, step=10)
+
+    pred_results = []
+    for bucket in BUCKET_COLORS:
+        arr_list = curves[bucket]
+        if not arr_list:
+            continue
+        arr = np.array(arr_list)
+        med = np.median(arr, axis=0)
+        p25 = np.percentile(arr, 25, axis=0)
+        p75 = np.percentile(arr, 75, axis=0)
+        if pred_day >= len(med) or med[pred_day] <= 0:
+            continue
+        pct_med = med[pred_day]
+        pred_median = round(pred_orders / pct_med * 100)
+        pred_low = round(pred_orders / p75[pred_day] * 100) if p75[pred_day] > 0 else None
+        pred_high = round(pred_orders / p25[pred_day] * 100) if p25[pred_day] > 0 else None
+        pred_results.append({
+            "bucket": bucket,
+            "n": len(arr_list),
+            "pct_med": pct_med,
+            "pred_median": pred_median,
+            "pred_low": pred_low,
+            "pred_high": pred_high,
+        })
+
+    if pred_results:
+        metric_cols = st.columns(len(pred_results))
+        for i, r in enumerate(pred_results):
+            with metric_cols[i]:
+                st.metric(
+                    label=f"{r['bucket']} (n={r['n']})",
+                    value=f"{r['pred_median']:,}",
+                )
+                range_str = (
+                    f"Range: {r['pred_low']:,} – {r['pred_high']:,}"
+                    if r["pred_low"] else ""
+                )
+                st.caption(f"Curve at day {int(pred_day)}: {r['pct_med']:.1f}%  |  {range_str}")
+    else:
+        st.info("No curve data available for the selected years.")
+
     if show_schools:
         st.subheader("Schools in each bucket")
         for bucket in BUCKET_COLORS:
