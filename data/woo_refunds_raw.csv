@@ -1,0 +1,8 @@
+order_id,order_number,order_status,refund_id,refund_date,refund_reason,meta_chosen_shipping,meta_cc_school_code,product_name,sku,quantity_returned,line_total_refunded
+25317,25317,processing,26811,2026-05-01T16:02:26,,ship_to_school,co-cob,College Laundry Bag for Campus Living,LNDRYBAG_GRY,1,9.99
+25317,25317,processing,26811,2026-05-01T16:02:26,,ship_to_school,co-cob,"6"" Clip Fan with Base",CLIPFAN_WHT-O,1,14.99
+25317,25317,processing,26811,2026-05-01T16:02:26,,ship_to_school,co-cob,Charging Catchall College Lamp for Desk and Bedside,DESKLAMP_WHT-D,1,24.99
+25317,25317,processing,26811,2026-05-01T16:02:26,,ship_to_school,co-cob,Underbed Storage Bag for College Room Organization,UBSTGBAG_GRY,1,14.99
+25317,25317,processing,26811,2026-05-01T16:02:26,,ship_to_school,co-cob,Hanging Fabric College Closet Shelves for Campus Storage,HNGSHLVS_GRY,1,13.99
+25317,25317,processing,26811,2026-05-01T16:02:26,,ship_to_school,co-cob,Over the Door College Shoe Organizer for Campus Storage,OTDSHORG_GRY,1,14.99
+25317,25317,processing,26811,2026-05-01T16:02:26,,ship_to_school,co-cob,Collapsible College Storage Bench for Campus Rooms,STRGBNCH_GRY,1,59.99

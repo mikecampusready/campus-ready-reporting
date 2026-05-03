@@ -1,0 +1,41 @@
+order_id,order_number,order_status,date_created,customer_email,shipping_method,order_total,meta_chosen_shipping,meta_cc_school_code,line_item_id,product_name,sku,quantity,line_total
+26888,26888,checkout-draft,2026-05-03T13:16:25,,Free shipping,244.99,,,61184,College Twin XL Extra Comfort Pack,PKG_CMF_NVLB_MEM,1,229.00
+26888,26888,checkout-draft,2026-05-03T13:16:25,,Free shipping,244.99,,,61185,College Shower Caddy for Campus Bathrooms,SHWRCDY_BLK,1,15.99
+26887,26887,checkout-draft,2026-05-02T01:18:48,plaurent@me.com,Ship to School,339.00,,,61182,College Twin XL Feels Like Home Comfort Pack,PKG_HME_PNWH,1,309.00
+26885,26885,checkout-draft,2026-05-02T00:20:10,,Ship to School,349.00,,,61172,College Twin XL Feels Like Home Comfort Pack,PKG_HME_FLGR_MEM,1,319.00
+26884,26884,checkout-draft,2026-05-02T00:19:44,,Ship to School,329.00,,,61164,College Twin XL Feels Like Home Comfort Pack,PKG_HME_CTGR,1,299.00
+26883,26883,checkout-draft,2026-05-02T00:12:47,plaurent@me.com,Ship to School,74.99,,,61160,Black Plaid Twin XL College Reversible Comforter for Campus Living,CMFT_TXL_ST_BLKPLD-O,1,44.99
+26879,26879,checkout-draft,2026-05-01T22:34:18,,Free shipping,309.00,,,61145,College Twin XL Feels Like Home Comfort Pack,PKG_HME_PNPK,1,309.00
+26871,26871,checkout-draft,2026-05-01T17:40:23,,Free shipping,299.00,,,61137,College Twin XL Feels Like Home Comfort Pack,PKG_HME_WFBL,1,299.00
+26870,26870,checkout-draft,2026-05-01T17:38:50,,Free shipping,299.00,,,61135,College Twin XL Feels Like Home Comfort Pack,PKG_HME_CTGR,1,299.00
+26869,26869,checkout-draft,2026-05-01T17:38:18,,Free shipping,309.00,,,61133,College Twin XL Feels Like Home Comfort Pack,PKG_HME_PNGR,1,309.00
+26868,26868,checkout-draft,2026-05-01T17:37:23,,Free shipping,219.00,,,61131,College Twin XL Extra Comfort Pack,PKG_CMF_PNGR,1,219.00
+26864,26864,checkout-draft,2026-05-01T17:36:45,,Free shipping,219.00,,,61129,College Twin XL Extra Comfort Pack,PKG_CMF_PNPK,1,219.00
+26847,26847,checkout-draft,2026-05-01T17:32:23,,Ship to School,329.00,,,61127,College Twin XL Feels Like Home Comfort Pack,PKG_HME_STBK,1,299.00
+26845,26845,checkout-draft,2026-05-01T17:31:26,plaurent@me.com,Free shipping,229.00,,,61123,College Twin XL Extra Comfort Pack,PKG_CMF_BKGR_MEM,1,229.00
+26841,26841,checkout-draft,2026-05-01T17:17:23,plaurent@me.com,Ship to School,339.00,,,61121,College Twin XL Feels Like Home Comfort Pack,PKG_HME_PNWH,1,309.00
+26810,26810,checkout-draft,2026-05-01T16:00:12,sue@campusready.com,Flat rate,58.58,,,61094,Blush Plaid Twin XL College Reversible Comforter for Campus Living,CMFT_TXL_ST_BLSHPLD,1,44.99
+25319,25319,checkout-draft,2026-05-01T14:46:00,sue@campusready.com,Free shipping,222.85,,,61088,College Twin XL Extra Comfort Pack,PKG_CMF_HSGR,1,209.00
+25318,25318,checkout-draft,2026-05-01T14:05:53,sue@campusready.com,Free shipping,222.85,,,61082,College Twin XL Extra Comfort Pack,PKG_CMF_HSGR,1,209.00
+25317,25317,processing,2026-05-01T13:47:14,CMMerriam@aol.com,Ship to School,652.93,ship_to_school,co-cob,61069,College Twin XL Fully Furnished Comfort Pack,PKG_FFN_PDNV_MEM,1,469.00
+25317,25317,processing,2026-05-01T13:47:14,CMMerriam@aol.com,Ship to School,652.93,ship_to_school,co-cob,61070,College Laundry Bag for Campus Living,LNDRYBAG_GRY,1,9.99
+25317,25317,processing,2026-05-01T13:47:14,CMMerriam@aol.com,Ship to School,652.93,ship_to_school,co-cob,61071,"6"" Clip Fan with Base",CLIPFAN_WHT-O,1,14.99
+25317,25317,processing,2026-05-01T13:47:14,CMMerriam@aol.com,Ship to School,652.93,ship_to_school,co-cob,61072,Charging Catchall College Lamp for Desk and Bedside,DESKLAMP_WHT-D,1,24.99
+25317,25317,processing,2026-05-01T13:47:14,CMMerriam@aol.com,Ship to School,652.93,ship_to_school,co-cob,61073,Underbed Storage Bag for College Room Organization,UBSTGBAG_GRY,1,14.99
+25317,25317,processing,2026-05-01T13:47:14,CMMerriam@aol.com,Ship to School,652.93,ship_to_school,co-cob,61074,Hanging Fabric College Closet Shelves for Campus Storage,HNGSHLVS_GRY,1,13.99
+25317,25317,processing,2026-05-01T13:47:14,CMMerriam@aol.com,Ship to School,652.93,ship_to_school,co-cob,61075,Over the Door College Shoe Organizer for Campus Storage,OTDSHORG_GRY,1,14.99
+25317,25317,processing,2026-05-01T13:47:14,CMMerriam@aol.com,Ship to School,652.93,ship_to_school,co-cob,61076,Collapsible College Storage Bench for Campus Rooms,STRGBNCH_GRY,1,59.99
+25292,25292,checkout-draft,2026-05-01T13:01:47,,Free shipping,239.00,,,61058,College Twin XL Extra Comfort Pack,PKG_CMF_PNPK_MEM,1,239.00
+25289,25289,checkout-draft,2026-05-01T09:29:30,matt@campuscomforts.com,Free shipping,159.00,,,61048,College Twin XL Basic Comfort Pack - Harbor Slate,PKG_BAS_HSGR,1,159.00
+25288,25288,checkout-draft,2026-05-01T09:22:46,,Flat rate,24.94,,,61046,"6"" Clip Fan with Base",CLIPFAN_WHT-O,1,14.99
+25195,25195,checkout-draft,2026-05-01T00:06:42,mike@campuscomforts.com,Free shipping,168.54,,,61045,College Twin XL Basic Comfort Pack - Harbor Slate,PKG_BAS_HSGR,1,159.00
+25147,25147,checkout-draft,2026-04-30T22:44:05,plaurent@me.com,Free shipping,0.00,,,61030,College Twin XL Feels Like Home Comfort Pack,PKG_HME_STBK,1,0.00
+24402,24402,checkout-draft,2026-04-30T20:29:40,sue@campusready.com,Free shipping,169.53,,,61023,College Twin XL Basic Comfort Pack - Willow Floral Blue Mist,PKG_BAS_WFBL,1,159.00
+23659,23659,checkout-draft,2026-04-30T20:18:02,sue@campusready.com,Ship to School,201.52,,,61017,College Twin XL Basic Comfort Pack - Harbor Slate,PKG_BAS_HSGR,1,159.00
+22914,22914,checkout-draft,2026-04-30T19:21:21,,Free shipping,169.00,,,61011,College Twin XL Basic Comfort Pack - Pink Pintuck,PKG_BAS_PNPK,1,169.00
+22854,22854,checkout-draft,2026-04-30T16:20:35,,Flat rate,19.94,,,61009,College Laundry Bag for Campus Living,LNDRYBAG_GRY,1,9.99
+22853,22853,processing,2026-04-30T16:17:27,mvh08@live.com,Free shipping,229.00,ship_to_home,fl-img,61007,College Twin XL Extra Comfort Pack,PKG_CMF_PDBK_MEM,1,229.00
+22852,22852,checkout-draft,2026-04-30T16:04:31,,Free shipping,219.00,,,61053,College Twin XL Extra Comfort Pack,PKG_CMF_PNGR,1,219.00
+22851,22851,checkout-draft,2026-04-30T15:55:16,sue@campusready.com,Ship to School,30.00,,,61003,College Twin XL Extra Comfort Pack,PKG_CMF_HSGR,1,0.00
+22850,22850,checkout-draft,2026-04-30T14:56:26,,Flat rate,54.94,,,60984,Carter Stripe – Slate & Charcoal Twin XL College Comforter with Classic Square Quilting,CMFT_TXL_ST_CRTRSTRPGRY,1,44.99
+22849,22849,checkout-draft,2026-04-30T14:53:49,,Flat rate,24.94,,,60982,Gray Jumbo College Bath Sheet for Campus Living,BTHSHT_GRY-O,1,14.99
